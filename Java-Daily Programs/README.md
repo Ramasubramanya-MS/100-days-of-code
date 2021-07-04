@@ -1,2 +1,3 @@
-##Day 1
-Learnt about Java Data structures and Dynamic Allocation of Variables
+#Daily-log
+
+##Day 1 Learnt about Java Data structures and Dynamic Allocation of Variables
